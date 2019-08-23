@@ -11,7 +11,12 @@
  
  ![AC analysis](./LNA_AC_Response.png)
  
+
+ *Noise Analysis*
+
+ ![Noise Analysis](./LNA_Noise_Response.png)
  
+
  Note: The sharp AC magnitude dip at 2.91 GHz is due to resonance frequency of parallel LC tank consisting of L1 and C1
  
  TODO :
